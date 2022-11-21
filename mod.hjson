@@ -1,0 +1,9 @@
+displayName: "Chat Translation"
+name: "chat-translation"
+author: "kubikaugustyn - HackerKuba2009"
+main: "chattranslation.ChatTranslation"
+description: "Automatic chat translation, translates messages you send and all of the others."
+version: 1.0
+minGameVersion: 140
+java: true
+hidden: true

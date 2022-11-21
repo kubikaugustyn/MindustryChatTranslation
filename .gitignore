@@ -1,0 +1,6 @@
+.idea
+.idea/*
+MindustryChatTranslation.iml
+build
+build/*
+/.gradle/
